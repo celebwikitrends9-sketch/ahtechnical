@@ -57,12 +57,12 @@ export default function PaintingServicePage() {
               </Button>
               <div className="flex gap-3">
                 <WhatsAppButton
-                  phoneNumber="+971568480376"
+                  phoneNumber="+97155117592"
                   message={service.whatsappMessage}
                   className="px-6 py-3 text-base font-medium shadow-lg"
                 />
                 <a
-                  href="tel:+971568480376"
+                  href="tel:+97155117592"
                   className="bg-blue-500/80 hover:bg-blue-600 text-white px-6 py-3 rounded-md shadow-lg transition-all duration-300 flex items-center justify-center gap-2 backdrop-blur-sm"
                   aria-label="Call us"
                 >
@@ -91,7 +91,7 @@ export default function PaintingServicePage() {
 
               <div className="bg-white p-8 rounded-xl shadow-sm border border-gray-100 mb-8">
                 <p className="text-gray-700 mb-6 text-lg leading-relaxed">
-                  At Bilal Technical Services, we provide top-quality painting services for residential and commercial
+                  At Painting Services, we provide top-quality painting services for residential and commercial
                   properties throughout Dubai. Our team of experienced professionals is committed to delivering
                   exceptional results that exceed your expectations.
                 </p>
@@ -125,9 +125,9 @@ export default function PaintingServicePage() {
                     <Link href="/contact">Request a Quote</Link>
                   </Button>
                   <div className="flex gap-2">
-                    <WhatsAppButton phoneNumber="+971568480376" message={service.whatsappMessage} />
+                    <WhatsAppButton phoneNumber="+97155117592" message={service.whatsappMessage} />
                     <a
-                      href="tel:+971568480376"
+                      href="tel:+97155117592"
                       className="bg-blue-500 hover:bg-blue-600 text-white p-2 rounded-md shadow-md transition-all duration-300 flex items-center justify-center"
                       aria-label="Call us"
                     >
@@ -229,9 +229,9 @@ export default function PaintingServicePage() {
                 <div className="border-t border-gray-200 pt-6">
                   <h4 className="font-bold text-lg mb-3">Contact Us</h4>
                   <div className="space-y-3">
-                    <a href="tel:+971568480376" className="flex items-center gap-2 text-blue-600 hover:underline">
+                    <a href="tel:+97155117592" className="flex items-center gap-2 text-blue-600 hover:underline">
                       <Phone className="w-4 h-4" />
-                      <span>+971568480376</span>
+                      <span>+97155117592</span>
                     </a>
                     <a
                       href="mailto:info@bilaltechnical.services"
@@ -340,12 +340,12 @@ export default function PaintingServicePage() {
               </Button>
               <div className="flex gap-3">
                 <WhatsAppButton
-                  phoneNumber="+971568480376"
+                  phoneNumber="+97155117592"
                   message={service.whatsappMessage}
                   className="sm:px-6 sm:py-3 text-base font-medium shadow-lg"
                 />
                 <a
-                  href="tel:+971568480376"
+                  href="tel:+97155117592"
                   className="bg-blue-500/80 hover:bg-blue-600 text-white px-6 py-3 rounded-md shadow-lg transition-all duration-300 flex items-center justify-center gap-2 backdrop-blur-sm"
                   aria-label="Call us"
                 >
