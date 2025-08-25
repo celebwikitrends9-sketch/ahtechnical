@@ -41,18 +41,18 @@ export default function Header() {
         <div className="hidden md:flex items-center gap-3">
           <div className="flex gap-2">
             <WhatsAppButton
-              phoneNumber="+97155117592"
+              phoneNumber="‪+971551175925"
               message="Hello, I'm interested in your services."
               className="px-3 py-1 text-sm"
             />
             {/* <a
-              href="tel:+97155117592"
+              href="tel:‪+971551175925"
               className="bg-blue-500 hover:bg-blue-600 text-white p-2 rounded-md shadow-md transition-all duration-300 flex items-center justify-center"
               aria-label="Call us"
             >
               <Phone className="w-4 h-4" />
             </a> */}
-            <CallButton phoneNumber="+97155117592" className="flex-1 justify-center" />
+            <CallButton phoneNumber="‪+971551175925" className="flex-1 justify-center" />
           </div>
           <Button asChild className="bg-blue-600 hover:bg-blue-700" size="sm">
             <Link href="/contact">Get a Quote</Link>
@@ -87,11 +87,11 @@ export default function Header() {
               {/* Contact buttons in mobile menu */}
               <div className="pt-2 flex gap-2">
                 <WhatsAppButton
-                  phoneNumber="+97155117592"
+                  phoneNumber="‪+971551175925"
                   message="Hello, I'm interested in your services."
                   className="flex-1 justify-center"
                 />
-                <CallButton phoneNumber="+97155117592" className="flex-1 justify-center" />
+                <CallButton phoneNumber="‪+971551175925" className="flex-1 justify-center" />
               </div>
             </div>
           </SheetContent>
