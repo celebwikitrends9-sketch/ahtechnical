@@ -120,7 +120,7 @@ export default function ContactPage() {
                   <p className="text-gray-600 mb-1">Call us for immediate assistance</p>
                   
                   <a href="mailto:info@bilaltechnical.services" className="text-blue-600 font-medium">
-                    +971568480376
+                    ‪+971551175925
                   </a>
                   
                 </div>
@@ -165,7 +165,7 @@ export default function ContactPage() {
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Bilal Technical Services Location"
+                title=" Painting Services Location"
               ></iframe>
             </div>
           </div>
