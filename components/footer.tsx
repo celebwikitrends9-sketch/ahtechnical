@@ -9,7 +9,7 @@ export default function Footer() {
           <div>
             <Link href="/" className="flex items-center gap-2 mb-4">
               <Frame className="h-8 w-8" />
-              <span className="font-bold text-xl">Bilal Technical</span>
+              <span className="font-bold text-xl">Painting Services</span>
             </Link>
             <p className="text-gray-400 mb-6">
               Your trusted partner for all technical and maintenance services in Dubai.
@@ -119,8 +119,8 @@ export default function Footer() {
               <li className="flex items-start">
                 <Phone className="h-5 w-5 text-blue-400 mr-3 mt-0.5" />
                 <div>
-                  <a href="tel:+971568480376" className="text-gray-400 hover:text-white transition-colors">
-                    +971568480376
+                  <a href="tel:+97155117592" className="text-gray-400 hover:text-white transition-colors">
+                    +97155117592
                   </a>
                 </div>
               </li>
@@ -145,7 +145,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} Bilal Technical Services. All rights reserved | Powered by <a href="https://mindoxa.com">Mindoxa</a></p>
+          <p>&copy; {new Date().getFullYear()} Painting Services. All rights reserved | Powered by <a href="https://rankwithismail.com">Rankwithismail</a></p>
         </div>
       </div>
     </footer>
