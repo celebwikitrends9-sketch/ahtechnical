@@ -120,7 +120,7 @@ export default function ContactPage() {
                   <p className="text-gray-600 mb-1">Call us for immediate assistance</p>
                   
                   <a href="mailto:info@bilaltechnical.services" className="text-blue-600 font-medium">
-                    ‪+971551175925
+                    +971 55 117 5925
                   </a>
                   
                 </div>
