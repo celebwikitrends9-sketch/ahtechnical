@@ -24,12 +24,7 @@ export default function Header() {
           <Link href="/" className="flex items-center gap-2">
             {/* <Frame className="h-6 w-6 text-blue-600" /> */}
              
-          <Image
-            src="/logo.png"
-            alt="Company Logo"
-            width={120}
-            height={40}
-            priority
+         
           />
         
 
